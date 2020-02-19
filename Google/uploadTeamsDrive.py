@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from __future__ import print_function
 
 from oauth2client.service_account import ServiceAccountCredentials
 from googleapiclient.discovery import build

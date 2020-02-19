@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from __future__ import print_function
 
 # TODO: check dest of teams drive change q for regular
 
